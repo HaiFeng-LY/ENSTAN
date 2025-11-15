@@ -6,6 +6,9 @@ Due to neurovascular coupling, an inherent emotional complementarity is observed
 
 # EEG-NIRS dataset TYUT emotion recognition (ENTER)
 https://gitee.com/tycgj/enter
+## Subject information
+
+## Topomap
 ![image](https://github.com/HaiFeng-LY/ENSTAN/blob/main/EEG-fNIRS.png)
 # Environment Setup
 Create the environment and install dependencies:
@@ -39,6 +42,7 @@ Create the environment and install dependencies:
 *3412
 
 `python
+
 
 
 
