@@ -8,35 +8,37 @@ https://gitee.com/tycgj/enter
 ![image](https://github.com/HaiFeng-LY/ENSTAN/blob/main/EEG-fNIRS.png)
 # Environment Setup
 Create the environment and install dependencies:
+*torch>=2.5.1
+*torchvision>=0.20.1
+*torchaudio>=2.5.1
+*numpy>=1.26.4
+*scipy>=1.14.0
+*scikit-learn>=1.6.1
+*matplotlib>=3.9.0
+*seaborn>=0.13.2
+*pandas>=2.2.2
+*tqdm>=4.67.1
+*mne>=1.2.0
+*torch-geometric>=2.1.0
+*torch-scatter>=2.1.2
+*torch-sparse>=0.6.18
+*torch-cluster>=1.6.3
+*torch-spline-conv>=1.2.2
+*opencv-python>=4.10.0
+*Pillow>=11.1.0
+*statsmodels>=0.14.5
+*xlrd>=2.0.1
+*openpyxl>=3.1.5
+*scikit-image>=0.25.0
 
 
 # Running Experiments
-torch>=2.5.1
-torchvision>=0.20.1
-torchaudio>=2.5.1
-numpy>=1.26.4
-scipy>=1.14.0
-scikit-learn>=1.6.1
-matplotlib>=3.9.0
-seaborn>=0.13.2
-pandas>=2.2.2
-tqdm>=4.67.1
-mne>=1.2.0
-torch-geometric>=2.1.0
-torch-scatter>=2.1.2
-torch-sparse>=0.6.18
-torch-cluster>=1.6.3
-torch-spline-conv>=1.2.2
-opencv-python>=4.10.0
-Pillow>=11.1.0
-statsmodels>=0.14.5
-xlrd>=2.0.1
-openpyxl>=3.1.5
-scikit-image>=0.25.0
+
 
 *3412
 
 `python
+
 
 
 
