@@ -10,12 +10,18 @@ https://gitee.com/tycgj/enter
 ## Experimental Paradigm of the ENTER Dataset
 The ENTER dataset includes 60 emotional video clips covering four discrete emotions: sadness, happiness, neutrality, and fear, with 15 clips for each category. The duration of the videos ranges from 1 to 2 minutes. All videos were pre-evaluated and screened by 20 non-participant individuals using the Self-Assessment Manikin (SAM) scale on arousal and valence dimensions to ensure effective emotion elicitation. Each trial followed a fixed sequence consisting of a 5-second preparation phase, a 5-second resting baseline, 1–2 minutes of emotional video presentation, a 30-second self-report assessment, and a 5-second rest period. The experiment comprised a total of 60 trials, and the video clips were presented in a randomized order.
 
-## Subject information
-| Feature              | Detail                                                                                             |
-|----------------------|-----------------------------------------------------------------------------------------------------|
-| Number of Subjects   | 50                                                                                                  |
-| Health Status        | All subjects were healthy.                                                                          |
-| Demographics         | Detailed demographic information (e.g., age range, gender distribution) is not provided in the paper's abstract. |
+## Detailed Subject Information
+| Feature                | Detail                                                                                                  |
+|------------------------|----------------------------------------------------------------------------------------------------------|
+| Number of Participants | 50 (gender-balanced, 1:1 ratio)                                                                          |
+| Health Status          | Right-handed; normal hearing and vision; no neurological disorders                                       |
+| EEG Configuration      | 62 electrodes, 1000 Hz sampling rate                                                                     |
+| fNIRS Configuration    | 18 optodes (sources + detectors), 11 Hz sampling rate                                                    |
+| Trial Task             | Participants watched an emotional video clip (~80 seconds)                                               |
+| Self-report            | 30-second SAM rating after each video (valence and arousal)                                              |
+| Emotions               | Sadness, happiness, neutrality, fear (15 videos per category)                                            |
+| Total Trials per Subject | 60 trials                                                                                              |
+
 
 ## Topomap
 <img src="https://github.com/HaiFeng-LY/ENSTAN/blob/main/EEG-fNIRS.png" width="500">
@@ -52,6 +58,7 @@ Create the environment and install dependencies:
 *3412
 
 `python
+
 
 
 
