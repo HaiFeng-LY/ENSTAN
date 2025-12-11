@@ -8,7 +8,7 @@ https://gitee.com/tycgj/enter
 ## Subject information
 
 ## Topomap
-<img src="https://github.com/HaiFeng-LY/ENSTAN/blob/main/EEG-fNIRS.png" width="400">
+<img src="https://github.com/HaiFeng-LY/ENSTAN/blob/main/EEG-fNIRS.png" width="500">
 
 # Environment Setup
 Create the environment and install dependencies:
@@ -42,6 +42,7 @@ Create the environment and install dependencies:
 *3412
 
 `python
+
 
 
 
