@@ -8,7 +8,8 @@ https://gitee.com/tycgj/enter
 ## Subject information
 
 ## Topomap
-![image](https://github.com/HaiFeng-LY/ENSTAN/blob/main/EEG-fNIRS.png)
+<img src="https://github.com/HaiFeng-LY/ENSTAN/blob/main/EEG-fNIRS.png" width="400">
+
 # Environment Setup
 Create the environment and install dependencies:
 *torch>=2.5.1
@@ -41,6 +42,7 @@ Create the environment and install dependencies:
 *3412
 
 `python
+
 
 
 
