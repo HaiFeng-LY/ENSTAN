@@ -7,8 +7,7 @@ To address these challenges, this paper proposes the EEG-fNIRS spatiotemporal al
 # EEG-NIRS dataset TYUT emotion recognition (ENTER)
 https://gitee.com/tycgj/enter
 
-##Experimental Paradigm of the ENTER Dataset**
-
+## Experimental Paradigm of the ENTER Dataset
 The ENTER dataset includes 60 emotional video clips covering four discrete emotions: sadness, happiness, neutrality, and fear, with 15 clips for each category. The duration of the videos ranges from 1 to 2 minutes. All videos were pre-evaluated and screened by 20 non-participant individuals using the Self-Assessment Manikin (SAM) scale on arousal and valence dimensions to ensure effective emotion elicitation. Each trial followed a fixed sequence consisting of a 5-second preparation phase, a 5-second resting baseline, 1–2 minutes of emotional video presentation, a 30-second self-report assessment, and a 5-second rest period. The experiment comprised a total of 60 trials, and the video clips were presented in a randomized order.
 
 ## Subject information
@@ -53,6 +52,7 @@ Create the environment and install dependencies:
 *3412
 
 `python
+
 
 
 
