@@ -10,7 +10,7 @@ https://gitee.com/tycgj/enter
 ## Experimental Paradigm of the ENTER Dataset
 The ENTER dataset includes 60 emotional video clips covering four discrete emotions: sadness, happiness, neutrality, and fear, with 15 clips for each category. The duration of the videos ranges from 1 to 2 minutes. All videos were pre-evaluated and screened by 20 non-participant individuals using the Self-Assessment Manikin (SAM) scale on arousal and valence dimensions to ensure effective emotion elicitation. Each trial followed a fixed sequence consisting of a 5-second preparation phase, a 5-second resting baseline, 1–2 minutes of emotional video presentation, a 30-second self-report assessment, and a 5-second rest period. The experiment comprised a total of 60 trials, and the video clips were presented in a randomized order.
 
-## Detailed Subject Information
+## Detailed Data Information
 | Feature                | Detail                                                                                                  |
 |------------------------|----------------------------------------------------------------------------------------------------------|
 | Number of Participants | 50 (gender-balanced, 1:1 ratio)                                                                          |
@@ -25,6 +25,74 @@ The ENTER dataset includes 60 emotional video clips covering four discrete emoti
 
 ## Topomap
 <img src="https://github.com/HaiFeng-LY/ENSTAN/blob/main/EEG-fNIRS.png" width="500">
+
+## Screened Emotion-Eliciting Videos
+
+
+| Clip Number | Source Film                                   | Targeted Emotion | Duration (s) | Language |
+|-------------|-----------------------------------------------|------------------|--------------|----------|
+| 1           | Aftershock Tangshan Earthquake                | Sadness          | 87           | Chinese  |
+| 2           | Aftershock Tangshan Earthquake                | Sadness          | 95           | Chinese  |
+| 3           | The Bravest                                   | Sadness          | 73           | Chinese  |
+| 4           | The Bravest                                   | Sadness          | 59           | Chinese  |
+| 5           | Dying to Survive                              | Sadness          | 100          | Chinese  |
+| 6           | Dying to Survive                              | Sadness          | 65           | Chinese  |
+| 7           | A Little Red Flower                           | Sadness          | 47           | Chinese  |
+| 8           | The Allure of Tears                           | Sadness          | 90           | Chinese  |
+| 9           | Run For Young                                 | Sadness          | 81           | Chinese  |
+| 10          | Heaven Calls                                   | Sadness          | 83           | Chinese  |
+| 11          | A Little Reunion                              | Sadness          | 82           | Chinese  |
+| 12          | A Little Reunion                              | Sadness          | 87           | Chinese  |
+| 13          | With You                                      | Sadness          | 43           | Chinese  |
+| 14          | With You                                      | Sadness          | 116          | Chinese  |
+| 15          | With You                                      | Sadness          | 78           | Chinese  |
+| 16          | Trump Card (Season V)                         | Happiness        | 113          | Chinese  |
+| 17          | Trump Card (Season V)                         | Happiness        | 116          | Chinese  |
+| 18          | Trump Card (Season V)                         | Happiness        | 82           | Chinese  |
+| 19          | Trump Card (Season V)                         | Happiness        | 118          | Chinese  |
+| 20          | Trump Card (Season V)                         | Happiness        | 57           | Chinese  |
+| 21          | Trump Card (Season V)                         | Happiness        | 63           | Chinese  |
+| 22          | Trump Card (Season V)                         | Happiness        | 117          | Chinese  |
+| 23          | Trump Card (Season V)                         | Happiness        | 81           | Chinese  |
+| 24          | Trump Card (Season V)                         | Happiness        | 54           | Chinese  |
+| 25          | Trump Card (Season V)                         | Happiness        | 42           | Chinese  |
+| 26          | Trump Card (Season V)                         | Happiness        | 83           | Chinese  |
+| 27          | Trump Card (Season V)                         | Happiness        | 42           | Chinese  |
+| 28          | Trump Card (Season V)                         | Happiness        | 56           | Chinese  |
+| 29          | Trump Card (Season V)                         | Happiness        | 102          | Chinese  |
+| 30          | Trump Card (Season V)                         | Happiness        | 60           | Chinese  |
+| 31          | The Tale of Chinese Medicine (Season I)       | Calmness         | 58           | Chinese  |
+| 32          | The Tale of Chinese Medicine (Season I)       | Calmness         | 90           | Chinese  |
+| 33          | The Tale of Chinese Medicine (Season I)       | Calmness         | 84           | Chinese  |
+| 34          | The Tale of Chinese Medicine (Season I)       | Calmness         | 92           | Chinese  |
+| 35          | The Tale of Chinese Medicine (Season I)       | Calmness         | 100          | Chinese  |
+| 36          | The Tale of Chinese Medicine (Season I)       | Calmness         | 60           | Chinese  |
+| 37          | The Tale of Chinese Medicine (Season I)       | Calmness         | 63           | Chinese  |
+| 38          | The Tale of Chinese Medicine (Season I)       | Calmness         | 95           | Chinese  |
+| 39          | The Tale of Chinese Medicine (Season I)       | Calmness         | 68           | Chinese  |
+| 40          | The Tale of Chinese Medicine (Season I)       | Calmness         | 70           | Chinese  |
+| 41          | The Tale of Chinese Medicine (Season I)       | Calmness         | 71           | Chinese  |
+| 42          | The Tale of Chinese Medicine (Season I)       | Calmness         | 90           | Chinese  |
+| 43          | The Tale of Chinese Medicine (Season I)       | Calmness         | 87           | Chinese  |
+| 44          | The Tale of Chinese Medicine (Season I)       | Calmness         | 86           | Chinese  |
+| 45          | The Tale of Chinese Medicine (Season I)       | Calmness         | 77           | Chinese  |
+| 46          | Bedfellows                                    | Fear             | 83           | English  |
+| 47          | Annabelle                                     | Fear             | 56           | English  |
+| 48          | Annabelle                                     | Fear             | 67           | English  |
+| 49          | Lights Out                                    | Fear             | 85           | English  |
+| 50          | A Quiet Place                                 | Fear             | 62           | English  |
+| 51          | It                                            | Fear             | 112          | English  |
+| 52          | Pictured                                       | Fear             | 61           | English  |
+| 53          | Under the Bed                                 | Fear             | 51           | English  |
+| 54          | The Shining                                   | Fear             | 75           | English  |
+| 55          | Closet Space                                  | Fear             | 76           | English  |
+| 56          | Unfriend                                       | Fear             | 73           | English  |
+| 57          | Creeping                                       | Fear             | 76           | English  |
+| 58          | Dead Air                                       | Fear             | 70           | English  |
+| 59          | The Mime                                      | Fear             | 74           | English  |
+| 60          | The Mime                                      | Fear             | 81           | English  |
+
+
 
 # Environment Setup
 Create the environment and install dependencies:
@@ -58,6 +126,7 @@ Create the environment and install dependencies:
 *3412
 
 `python
+
 
 
 
