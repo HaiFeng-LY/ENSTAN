@@ -122,6 +122,9 @@ Create the environment and install dependencies:
 - openpyxl >= 3.1.5
 - scikit-image >= 0.25.0
 
+# Contact
+
+If you encounter any bugs or have questions, please feel free to contact us at 2023310098@link.tyut.edu.cn.
 
 
 
