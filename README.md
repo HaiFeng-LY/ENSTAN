@@ -93,6 +93,8 @@ The ENTER dataset includes 60 emotional video clips covering four discrete emoti
 | 60          | The Mime                                      | Fear             | 81           | English  |
 
 
+
+
 # Environment Setup
 
 Create the environment and install dependencies:
@@ -119,6 +121,7 @@ Create the environment and install dependencies:
 - xlrd >= 2.0.1
 - openpyxl >= 3.1.5
 - scikit-image >= 0.25.0
+
 
 
 
