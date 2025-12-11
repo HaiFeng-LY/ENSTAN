@@ -7,6 +7,11 @@ To address these challenges, this paper proposes the EEG-fNIRS spatiotemporal al
 # EEG-NIRS dataset TYUT emotion recognition (ENTER)
 https://gitee.com/tycgj/enter
 ## Subject information
+| Feature              | Detail                                                                                             |
+|----------------------|-----------------------------------------------------------------------------------------------------|
+| Number of Subjects   | 50                                                                                                  |
+| Health Status        | All subjects were healthy.                                                                          |
+| Demographics         | Detailed demographic information (e.g., age range, gender distribution) is not provided in the paper's abstract. |
 
 ## Topomap
 <img src="https://github.com/HaiFeng-LY/ENSTAN/blob/main/EEG-fNIRS.png" width="500">
@@ -43,6 +48,7 @@ Create the environment and install dependencies:
 *3412
 
 `python
+
 
 
 
