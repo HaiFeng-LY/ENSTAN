@@ -4,7 +4,7 @@ This is the official implementation of NESTAN, the model proposed in our paper â
 Due to neurovascular coupling, an inherent emotional complementarity is observed between electroencephalography (EEG) and functional near-infrared spectroscopy (fNIRS); however, these modalities exhibit significant cross-modal spatiotemporal and individual differences in emotional expression. Furthermore, there is an inherent negative coupling between oxygenated hemoglobin and deoxygenated hemoglobin in fNIRS, which can lead to inconsistent results when models perform emotion prediction based on both.
 To address these challenges, this paper proposes the EEG-fNIRS spatiotemporal alignment network (ENSTAN), which comprises a dynamic multigraph attention mechanism, temporally aligned cross-attention, and a subspace source-target emotion alignment module. Given the limited availability of publicly accessible EEG-fNIRS emotion datasets, we validated the proposed ENSTAN on the self-constructed ENTER dataset and compared it with various baseline methods. The results demonstrate that ENSTAN achieved average accuracies of 91.97% in random cross-validation and 88.96% in trial-unit cross-validation for subject-dependent experiments, with a 73.24% average accuracy in subject-independent experiments, confirming its effectiveness. In addition, the proposed ENSTAN elucidates the salient interaction channels and response latencies between EEG and fNIRS.
 
-# EEG-NIRS dataset TYUT emotion recognition (ENTER)
+# EEG-fNIRS TYUT Emotion Recognition  dataset (ENTER)
 https://gitee.com/tycgj/enter
 
 ## Experimental Paradigm of the ENTER Dataset
@@ -119,6 +119,7 @@ Create the environment and install dependencies:
 - xlrd >= 2.0.1
 - openpyxl >= 3.1.5
 - scikit-image >= 0.25.0
+
 
 
 
