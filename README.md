@@ -1,4 +1,4 @@
-# Spatiotemporal Alignment for EEG-fNIRS Emotion Recognition
+# ENSTAN
 This is the official implementation of NESTAN, the model proposed in our paper “Spatiotemporal Alignment for EEG-fNIRS Emotion Recognition”. NESTAN is a novel spatiotemporal alignment framework designed for robust cross-modal fusion and representation learning from EEG and fNIRS signals.
 # Abstract  
 Due to neurovascular coupling, an inherent emotional complementarity is observed between electroencephalography (EEG) and functional near-infrared spectroscopy (fNIRS); however, these modalities exhibit significant cross-modal spatiotemporal and individual differences in emotional expression. Furthermore, there is an inherent negative coupling between oxygenated hemoglobin and deoxygenated hemoglobin in fNIRS, which can lead to inconsistent results when models perform emotion prediction based on both.
@@ -125,6 +125,7 @@ Create the environment and install dependencies:
 # Contact
 
 If you encounter any bugs or have questions, please feel free to contact us at 2023310098@link.tyut.edu.cn.
+
 
 
 
