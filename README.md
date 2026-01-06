@@ -1,8 +1,6 @@
 # ENSTAN
 NESTAN is a novel spatiotemporal alignment framework designed for robust cross-modal fusion and representation learning from EEG and fNIRS signals.
-# Abstract  
-Due to neurovascular coupling, an inherent emotional complementarity is observed between electroencephalography (EEG) and functional near-infrared spectroscopy (fNIRS); however, these modalities exhibit significant cross-modal spatiotemporal and individual differences in emotional expression. Furthermore, there is an inherent negative coupling between oxygenated hemoglobin and deoxygenated hemoglobin in fNIRS, which can lead to inconsistent results when models perform emotion prediction based on both.
-To address these challenges, this paper proposes the EEG-fNIRS spatiotemporal alignment network (ENSTAN), which comprises a dynamic multigraph attention mechanism, temporally aligned cross-attention, and a subspace source-target emotion alignment module. Given the limited availability of publicly accessible EEG-fNIRS emotion datasets, we validated the proposed ENSTAN on the self-constructed ENTER dataset and compared it with various baseline methods. The results demonstrate that ENSTAN achieved average accuracies of 91.97% in random cross-validation and 88.96% in trial-unit cross-validation for subject-dependent experiments, with a 73.24% average accuracy in subject-independent experiments, confirming its effectiveness. In addition, the proposed ENSTAN elucidates the salient interaction channels and response latencies between EEG and fNIRS.
+
 
 # ENTER
 https://gitee.com/tycgj/enter
@@ -125,6 +123,7 @@ Create the environment and install dependencies:
 # Contact
 
 If you encounter any bugs or have questions, please feel free to contact us at 2023310098@link.tyut.edu.cn.
+
 
 
 
